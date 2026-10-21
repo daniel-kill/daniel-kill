@@ -28,5 +28,4 @@ Full-Stack Engineer with a focus on building high-performance, secure web applic
 - 🌐 **Portfolio:** [daniel-danielkill-online.pages.dev](https://daniel-danielkill-online.pages.dev/)
 - 🌲 **Linktree:** [linktr.ee/daniel_kill](https://linktr.ee/daniel_kill)
 - 💬 **Discord:** [Join my Discord Server](https://discord.gg/muPYhD7MEM)
-- 🐙 **GitHub:** [@daniel-kill](https://github.com/daniel-kill)
 - ✉️ **Email:** [daniel@danielkill.online](mailto:daniel@danielkill.online)
