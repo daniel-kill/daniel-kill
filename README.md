@@ -23,14 +23,10 @@ Full-Stack Engineer with a focus on building high-performance, secure web applic
 
 ---
 
-### 🚀 Showcase Repositories
+### 🌐 Links & Connect
 
-- 🌐 [**daniel-danielkill.online**](https://github.com/daniel-kill/daniel-danielkill.online) — Personal portfolio showcase detailing recent projects and web engineering work.
-- ⚙️ [**dotfiles-wsl**](https://github.com/daniel-kill) *(In Development)* — Hardened WSL2 development environment configurations, GPG/SSH automation, and agent scripts.
-
----
-
-### 📫 Connect With Me
-
-- **GitHub:** [@daniel-kill](https://github.com/daniel-kill)
-- **Email:** [daniel@danielkill.online](mailto:daniel@danielkill.online)
+- 🌐 **Portfolio:** [daniel-danielkill-online.pages.dev](https://daniel-danielkill-online.pages.dev/)
+- 🌲 **Linktree:** [linktr.ee/daniel_kill](https://linktr.ee/daniel_kill)
+- 💬 **Discord:** [Join my Discord Server](https://discord.gg/muPYhD7MEM)
+- 🐙 **GitHub:** [@daniel-kill](https://github.com/daniel-kill)
+- ✉️ **Email:** [daniel@danielkill.online](mailto:daniel@danielkill.online)
